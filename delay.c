@@ -76,4 +76,4 @@
     }
   }
 el delay consume menos recursos por que esta mejor optimizado que el blink
-#Este es sin delay
+// Este es sin delay
