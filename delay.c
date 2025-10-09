@@ -75,3 +75,4 @@
       digitalWrite(10, ledState);
     }
   }
+el delay consume menos recursos por que esta mejor optimizado que el blink
