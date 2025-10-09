@@ -45,5 +45,5 @@ void loop() {
   delay(1000);
   
 }
-#parpadea
+//parpadea
 // pasa por 2 secciones y termina en L
