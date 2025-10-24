@@ -71,4 +71,5 @@ else {
 }
 
 //verde, amarillo y rojo
+//nuestro contacto fisico afecta al LM35 afecta nuestra temperatura
 
