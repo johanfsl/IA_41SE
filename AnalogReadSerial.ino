@@ -1,6 +1,6 @@
 /*
   AnalogReadSerial
-
+a¿
   Reads an analog input on pin 0, prints the result to the Serial Monitor.
   Graphical representation is available using Serial Plotter (Tools > Serial Plotter menu).
   Attach the center pin of a potentiometer to pin A0, and the outside pins to +5V and ground.
@@ -73,3 +73,4 @@ else {
 //verde, amarillo y rojo
 //nuestro contacto fisico afecta al LM35 afecta nuestra temperatura
 //le batallamos con el led pero al final era cosa de la temperatura del lugar
+// asd
