@@ -72,4 +72,4 @@ else {
 
 //verde, amarillo y rojo
 //nuestro contacto fisico afecta al LM35 afecta nuestra temperatura
-
+//le batallamos con el led pero al final era cosa de la temperatura del lugar
