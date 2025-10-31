@@ -63,4 +63,5 @@ void loop() {
   }
   Serial.println(sensorVal);
 }
+//este PULL DOWN del diaaablo 
 
