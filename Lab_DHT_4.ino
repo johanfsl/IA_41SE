@@ -85,5 +85,5 @@ void loop() {
   } delay(2000); // Espera 2 segundos antes de nueva lectura
   
 }
-
+#ya estuvo mi brandon
 
