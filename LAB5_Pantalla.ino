@@ -94,3 +94,4 @@ void loop() {
   lcd.print("%");
 }
 //ya quedo
+//siu
