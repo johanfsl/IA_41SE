@@ -28,6 +28,7 @@ k
     https://docs.arduino.cc/built-in-examples/digital/BlinkWithoutDelay/
   */
 
+
   // constants won't change. Used here to set a pin number:
   const int ledPin = LED_BUILTIN;  // the number of the LED pin
 
@@ -76,3 +77,5 @@ k
     }
   }
 //el delay consume menos recursos por que esta mejor optimizado que el blink
+//siu
+
